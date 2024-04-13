@@ -1,0 +1,24 @@
+/* globals.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  @apply font-sans text-center;
+}
+
+.todo-container {
+  @apply mx-auto p-8 max-w-md;
+}
+
+ul {
+  @apply list-none p-0;
+}
+
+li {
+  @apply flex justify-between p-4 border mb-4 bg-gray-100;
+}
+
+button {
+  @apply cursor-pointer  py-2 px-4;
+}
