@@ -1,6 +1,6 @@
 <div align="center">
-   <h1> אפליקציית WEB ליצירת רשימות שמירה -  iGuard  </h1>
-   <img src="https://github.com/omerCasif/GuardList/blob/main/iGuard%20logo.webp" width="70%" high="70%">
+    <h1>אפליקציית WEB ליצירת רשימות שמירה - iGuard</h1>
+    <img src="https://github.com/omerCasif/GuardList/blob/main/iGuard%20logo.webp" width="70%" height="70%">
 </div>
 
 <h2>רקע</h2>
@@ -22,12 +22,87 @@
     <li>על מנת ליצור הוגנות בין החיילים, התוכנה זוכרת בכל פעם מי האחרון ששמר ומחלקת את זמני השמירה בצורה שוויונית בין כולם.</li>
 </ul>
 
-
 <br><br>
-<h2>דוגמאת הרצה </h2>
+<h2>דוגמאת הרצה</h2>
 <p>
-דף כניסה ראשי.  <br>
-שם משתמש: abc  <br>
-סימסא : 123
+    דף כניסה ראשי.<br>
+    שם משתמש: abc<br>
+    סיסמא: 123
+</p>
+
+<div align="center">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/entry page.JPG" width="70%" height="70%">
+</div>
+<br>
+
+<p>
+    לאחר הכנסת פרטי הזיהוי יעבור המשתמש ל home page.<br>
+    עמוד הבית כולל הסברים כללים על האפליקציה והוראות השימוש בה.
+</p>
+
+<div align="center">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/home page.JPG" width="70%" height="70%">
+</div>
+<br>
+
+<p>
+    במידה וזו הפעם הראשונה שהמשתמש מתחבר, הוא צריך להוסיף את האנשים הרלוונטיים לרשימת השמירה תחת העמוד של PEOPLE.<br>
+    על מנת לשפר את הפונקציונאליות של האפליקציה ושתתאים לשימוש היומיומי, הוספנו את האפשרות לכלול אדם לרשימה הרלוונטית באמצעות סימון v, או לא לסמנו במידה והוא לא נכלל לסבב הנוכחי.
+</p>
+
+<div align="center">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/people.JPG" width="70%" height="70%">
+</div>
+<br>
+
+<p>
+    לאחר הוספת האנשים, צריך המשתמש להוסיף את עמדות השמירה הרלוונטיות תחת stations.
+</p>
+
+<div align="center">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/stations.JPG" width="70%" height="70%">
+</div>
+<br>
+
+<p>
+    לאחר מכן צריך המשתמש להגדיר את שעות הפעילות הרלוונטיות.
+</p>
+
+<div align="center">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/stations & time.JPG" width="70%" height="70%">
+</div>
+<br>
+
+<p>
+    לאחר הכנסת כל הפרמטרים האפליקציה תייצר את רשימת השמירה הרצויה, אותה ניתן להפיץ בצורה קלה ונוחה.
+</p>
+
+<div align="center">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/output.JPG" width="70%" height="70%">
+</div>
+<br>
+<p>
+    הפלט המתקבל:
+
 
 </p>
+
+```plaintext
+*08:00*
+שג:  Tal, Omer
+פטרול:  Jhon
+
+*11:00*
+שג:  Bibi, Beni
+פטרול:  Tal
+
+*14:00*
+שג:  Omer, Jhon
+פטרול:  Bibi
+
+*17:00*
+שג:  Beni, Tal
+פטרול:  Omer
+
+
+
