@@ -1,0 +1,15 @@
+*08:00*
+שג:  Tal, Omer
+פטרול:  Jhon
+
+*11:00*
+שג:  Bibi, Beni
+פטרול:  Tal
+
+*14:00*
+שג:  Omer, Jhon
+פטרול:  Bibi
+
+*17:00*
+שג:  Beni, Tal
+פטרול:  Omer
