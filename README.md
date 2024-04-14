@@ -171,8 +171,14 @@
 <li><strong>Update_stations.js</strong> - מקבל username ורשימת עמדות, ומעדכן את הרשימה המתאימה בדאטהבייס</li>
 
 
-
-
+<br><br>
+<h1 dir="rtl">הסבר כיצד להריץ</h1>
+ <li> לעשות clone לקוד מgithub </li>
+ <li> Npm install </li>
+ <li> Npm run dev </li>
+ <li> לפתוח דפדפן ולהכינס לכתובת : http://localhost:3000/ </li>
+ 
+ 
 
 
 
