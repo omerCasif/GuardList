@@ -1,6 +1,6 @@
 <div align="center">
     <h1>אפליקציית WEB ליצירת רשימות שמירה - iGuard</h1>
-    <img src="https://github.com/omerCasif/GuardList/blob/main/iGuard%20logo.webp" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/iGuard%20logo.webp" width="70%" height="70%">
 </div>
 
 <h2>רקע</h2>
@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/omerCasif/GuardList/blob/main/entry page.JPG" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/entry page.JPG" width="70%" height="70%">
 </div>
 <br>
 
@@ -41,7 +41,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/omerCasif/GuardList/blob/main/home page.JPG" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/home page.JPG" width="70%" height="70%">
 </div>
 <br>
 
@@ -51,7 +51,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/omerCasif/GuardList/blob/main/people.JPG" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/people.JPG" width="70%" height="70%">
 </div>
 <br>
 
@@ -60,7 +60,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/omerCasif/GuardList/blob/main/stations.JPG" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/stations.JPG" width="70%" height="70%">
 </div>
 <br>
 
@@ -69,7 +69,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/omerCasif/GuardList/blob/main/stations & time.JPG" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/stations & time.JPG" width="70%" height="70%">
 </div>
 <br>
 
@@ -78,7 +78,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/omerCasif/GuardList/blob/main/output.JPG" width="70%" height="70%">
+    <img src="https://github.com/omerCasif/GuardList/blob/main/data/output.JPG" width="70%" height="70%">
 </div>
 <br>
 <p>
